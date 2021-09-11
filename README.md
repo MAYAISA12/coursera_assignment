@@ -1,3 +1,4 @@
 Module assignment
 <br>
-Output link ---> https://mayaisa12.github.io/coursera_assignment/
+To see ouput:
+<a href="https://mayaisa12.github.io/coursera_assignment/"><strong>CLICK ME</strong></a>
